@@ -18,4 +18,14 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 
 ## Prints da tela após o término do projeto
 
+#### Index:
+![Index-1](/assets/prints-projeto/index01.PNG)
+![Index-2](/assets/prints-projeto/index02.PNG)
+![Index-3](/assets/prints-projeto/index03.PNG)
+![Index-4](/assets/prints-projeto/index04.PNG)
 
+
+### Exemplo de como ficam os filmes:
+![exemplo-1](/assets/prints-projeto/exemplo-filme01.PNG)
+![exemplo-2](/assets/prints-projeto/exemplo-filme02.PNG)
+![exemplo-3](/assets/prints-projeto/exemplo-filme03.PNG)
